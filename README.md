@@ -1,5 +1,6 @@
 # 💫 About Me:
-👨‍💻 Pursuing a degree in Computer Science and Engineering  <br>⚡ Enthusiastic about everything tech, though not a fan of academic methods  <br>💻 Passionate about implementation over theory  <br>🎸 Guitarist (not a pro, but I play for myself and my close ones)  <br>⚽ Football lover, I'm good but not the best 😅<br>
+👨‍💻 Pursuing a degree in Computer Science and Engineering  <br>⚡ Enthusiastic about everything tech, though not a fan of academic methods  <br>💻 Passionate about implementation over theory  <br>🎸 Guitarist (not a pro, but I play for myself and my close ones)  <br>⚽ Loves Football , I'm good but not the best 😅 <br><br>Cause of social engineering Limited information is given😅<br>
+
 
 
 ## 🌐 Socials:
